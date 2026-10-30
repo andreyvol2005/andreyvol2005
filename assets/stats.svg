@@ -13,10 +13,10 @@
 <text class="value" x="470" y="76" text-anchor="end">0</text>
 <circle cx="30" cy="97.5" r="4" fill="#70a5fd"/>
 <text class="label" x="46" y="102">Всего коммитов</text>
-<text class="value" x="470" y="102" text-anchor="end">194</text>
+<text class="value" x="470" y="102" text-anchor="end">176</text>
 <circle cx="30" cy="123.5" r="4" fill="#38bdae"/>
 <text class="label" x="46" y="128">Pull requests</text>
-<text class="value" x="470" y="128" text-anchor="end">15</text>
+<text class="value" x="470" y="128" text-anchor="end">16</text>
 <circle cx="30" cy="149.5" r="4" fill="#7dcfff"/>
 <text class="label" x="46" y="154">Issues</text>
 <text class="value" x="470" y="154" text-anchor="end">5</text>
