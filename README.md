@@ -26,6 +26,6 @@
 
 ### 📊 Статистика:
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=andreyvol2005&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvol2005&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="assets/stats.svg" alt="Статистика GitHub" />
+  <img height="160" src="assets/top-langs.svg" alt="Самые используемые языки" />
 </p>

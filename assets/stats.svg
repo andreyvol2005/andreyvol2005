@@ -1,0 +1,26 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="stats-title">
+<title id="stats-title">Статистика GitHub: Andrikck</title>
+<style>
+.title { font: 600 17px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+.label { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+.value { font: 700 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c0caf5; }
+</style>
+<rect x="0.5" y="0.5" width="494" height="194" rx="6" fill="#1a1b27" stroke="#2f80ed" stroke-opacity="0.35"/>
+<text class="title" x="25" y="38">Andrikck · статистика GitHub</text>
+<line x1="25" y1="52" x2="470" y2="52" stroke="#2f80ed" stroke-opacity="0.35"/>
+<circle cx="30" cy="71.5" r="4" fill="#bf91f3"/>
+<text class="label" x="46" y="76">Всего звёзд</text>
+<text class="value" x="470" y="76" text-anchor="end">0</text>
+<circle cx="30" cy="97.5" r="4" fill="#70a5fd"/>
+<text class="label" x="46" y="102">Всего коммитов</text>
+<text class="value" x="470" y="102" text-anchor="end">194</text>
+<circle cx="30" cy="123.5" r="4" fill="#38bdae"/>
+<text class="label" x="46" y="128">Pull requests</text>
+<text class="value" x="470" y="128" text-anchor="end">15</text>
+<circle cx="30" cy="149.5" r="4" fill="#7dcfff"/>
+<text class="label" x="46" y="154">Issues</text>
+<text class="value" x="470" y="154" text-anchor="end">5</text>
+<circle cx="30" cy="175.5" r="4" fill="#e0af68"/>
+<text class="label" x="46" y="180">Подписчики</text>
+<text class="value" x="470" y="180" text-anchor="end">2</text>
+</svg>
