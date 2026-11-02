@@ -1,4 +1,4 @@
-# Привет, я Andrikck 👋
+<h1 align="center">Привет, я Andrikck</h1>
 
 ### </> Среды разработки:
 <div>
