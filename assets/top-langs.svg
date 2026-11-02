@@ -11,23 +11,23 @@
 <circle cx="30" cy="69.5" r="4" fill="#A97BFF"/>
 <text class="label" x="46" y="74">Kotlin</text>
 <rect x="152" y="65.5" width="272" height="6" rx="3" fill="#2f80ed" fill-opacity="0.3"/>
-<rect x="152" y="65.5" width="121.7" height="6" rx="3" fill="#A97BFF"/>
-<text class="value" x="470" y="74" text-anchor="end">44.8%</text>
+<rect x="152" y="65.5" width="117.1" height="6" rx="3" fill="#A97BFF"/>
+<text class="value" x="470" y="74" text-anchor="end">43.1%</text>
 <circle cx="30" cy="89.5" r="4" fill="#3572A5"/>
 <text class="label" x="46" y="94">Python</text>
 <rect x="152" y="85.5" width="272" height="6" rx="3" fill="#2f80ed" fill-opacity="0.3"/>
-<rect x="152" y="85.5" width="54.8" height="6" rx="3" fill="#3572A5"/>
-<text class="value" x="470" y="94" text-anchor="end">20.1%</text>
+<rect x="152" y="85.5" width="55.2" height="6" rx="3" fill="#3572A5"/>
+<text class="value" x="470" y="94" text-anchor="end">20.3%</text>
 <circle cx="30" cy="109.5" r="4" fill="#f1e05a"/>
 <text class="label" x="46" y="114">JavaScript</text>
 <rect x="152" y="105.5" width="272" height="6" rx="3" fill="#2f80ed" fill-opacity="0.3"/>
-<rect x="152" y="105.5" width="39.7" height="6" rx="3" fill="#f1e05a"/>
-<text class="value" x="470" y="114" text-anchor="end">14.6%</text>
+<rect x="152" y="105.5" width="43.2" height="6" rx="3" fill="#f1e05a"/>
+<text class="value" x="470" y="114" text-anchor="end">15.9%</text>
 <circle cx="30" cy="129.5" r="4" fill="#663399"/>
 <text class="label" x="46" y="134">CSS</text>
 <rect x="152" y="125.5" width="272" height="6" rx="3" fill="#2f80ed" fill-opacity="0.3"/>
-<rect x="152" y="125.5" width="20.7" height="6" rx="3" fill="#663399"/>
-<text class="value" x="470" y="134" text-anchor="end">7.6%</text>
+<rect x="152" y="125.5" width="21.2" height="6" rx="3" fill="#663399"/>
+<text class="value" x="470" y="134" text-anchor="end">7.8%</text>
 <circle cx="30" cy="149.5" r="4" fill="#e34c26"/>
 <text class="label" x="46" y="154">HTML</text>
 <rect x="152" y="145.5" width="272" height="6" rx="3" fill="#2f80ed" fill-opacity="0.3"/>
@@ -36,6 +36,6 @@
 <circle cx="30" cy="169.5" r="4" fill="#7355dd"/>
 <text class="label" x="46" y="174">C#</text>
 <rect x="152" y="165.5" width="272" height="6" rx="3" fill="#2f80ed" fill-opacity="0.3"/>
-<rect x="152" y="165.5" width="9.2" height="6" rx="3" fill="#7355dd"/>
-<text class="value" x="470" y="174" text-anchor="end">3.4%</text>
+<rect x="152" y="165.5" width="8.9" height="6" rx="3" fill="#7355dd"/>
+<text class="value" x="470" y="174" text-anchor="end">3.3%</text>
 </svg>
