@@ -13,7 +13,7 @@
 <text class="value" x="470" y="76" text-anchor="end">0</text>
 <circle cx="30" cy="97.5" r="4" fill="#70a5fd"/>
 <text class="label" x="46" y="102">Всего коммитов</text>
-<text class="value" x="470" y="102" text-anchor="end">211</text>
+<text class="value" x="470" y="102" text-anchor="end">221</text>
 <circle cx="30" cy="123.5" r="4" fill="#38bdae"/>
 <text class="label" x="46" y="128">Pull requests</text>
 <text class="value" x="470" y="128" text-anchor="end">20</text>
